@@ -1,3 +1,38 @@
-.title {
-  color: #02ccba;
+.header-logo {
+  font-size: 36px;
+  float: left;
+  padding: 20px 40px;
+}
+
+.header-list li{
+  list-style: none;
+  float: left;
+  padding: 20px;
+}
+
+.header{
+  background-color: #e6e6fa;
+  height: 90px;
+}
+
+.main{
+  background-color: #ffdead;
+  height: 600px;
+}
+
+.footer{
+  background-color: #d3d3d3;
+  height: 100px;
+}
+
+.footer-logo{
+  float: left;
+}
+
+.footer-list{
+  float:right;
+}
+
+.footer-list li{
+  list-style: none;
 }
